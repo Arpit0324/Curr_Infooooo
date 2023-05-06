@@ -1,5 +1,1 @@
 
-
-```
-npm i && npm start
-```
